@@ -5,7 +5,7 @@
 # Legger inn dette for å teste automated build diff2 02.12.2016
 
 # Pull base image.
-FROM dockerfile/ubuntu
+FROM ubuntu:12.04
 
 # Install Nginx.
 RUN \
