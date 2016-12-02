@@ -2,7 +2,7 @@
 # Nginx Dockerfile
 #
 # https://github.com/dockerfile/nginx
-# Legger inn dette for å teste automated build diff2
+# Legger inn dette for å teste automated build diff2 02.12.2016
 
 # Pull base image.
 FROM dockerfile/ubuntu
